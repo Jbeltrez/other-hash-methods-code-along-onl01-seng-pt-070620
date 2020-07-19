@@ -9,5 +9,9 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
+<<<<<<< HEAD
   groceries.keys #code your solution here!
+=======
+  return groceries.keys[2] #code your solution here!
+>>>>>>> 65e3320f4a772070a5527a5c74482abfe80fd9b5
 end
